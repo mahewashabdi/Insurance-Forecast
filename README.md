@@ -6,4 +6,4 @@ Technologies: ML Models, ScikitLearn, numpy, Python.
 * Recommeded to use Random Forest which had an accuracy of 84 percent.
 
 Dataset used from Kaggle dataset </br>
-Link to dataset : https://www.kaggle.com/mirichoi0218/insurance
+Link to dataset : https://www.kaggle.com/mirichoi0218/insurance#insurance.csv
