@@ -1,19 +1,9 @@
-# Insurance Forecast - Different Regression models are compared using the dataset. 
+# Insurance Forecast 
 
+Technologies: ML Models, ScikitLearn, numpy, Python.
+ML Model used for prediction : KNN Regressors, Linear Regression, Random Forest Regression and SVM on the data set to predict the insurance cost of the person on predictor variables like Age, Sex, bmi, no.of children covered by health insurance and smoker.
+Used prepruning technique to improve Random Forest( as the result was better as compared with other models)
+Recommeded to use Random Forest which had an accuracy of 84 percent.
 
-Columns
-
-age: age of primary beneficiary
-
-sex: insurance contractor gender, female, male
-
-bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
-objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
-
-children: Number of children covered by health insurance / Number of dependents
-
-smoker: Smoking
-
-region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
-
-charges: Individual medical costs billed by health insurance
+Dataset used from Kaggle dataset
+Link to dataset : https://www.kaggle.com/mirichoi0218/insurance
